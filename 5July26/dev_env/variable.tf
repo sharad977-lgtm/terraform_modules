@@ -1,3 +1,3 @@
-variable "rgs" {}
-variable "vnets" {}
-variable "subnets" {}
+variable "rgsp" {}
+variable "vnetsp" {}
+variable "subnetsp" {}
